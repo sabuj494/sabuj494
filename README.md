@@ -2,5 +2,5 @@
 
 <br />
 
-Hi, i'm [Shanto Islam](), a passionate self-taught full stack Js developer. 
+Hi, i'm [Sabuj Kumar Das](), a passionate self-taught full stack Js developer. 
 <hr>
